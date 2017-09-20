@@ -7,4 +7,5 @@
     * [1.2.1 词法分析](12-yi-ge-bian-yi-qi-de-jie-gou/121-yu-fa-fen-xi.md)
     * [1.2.2 语法分析](12-yi-ge-bian-yi-qi-de-jie-gou/122-yu-fa-fen-xi.md)
     * [1.2.3 语义分析器](11-yu-yan-chu-li-qi/123-yu-yi-fen-xi-qi.md)
+    * [1.2.4 中间代码生成](12-yi-ge-bian-yi-qi-de-jie-gou/124-zhong-jian-dai-ma-sheng-cheng.md)
 
