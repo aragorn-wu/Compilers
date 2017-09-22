@@ -15,4 +15,5 @@
     * [1.2.9 编译构造工具](12-yi-ge-bian-yi-qi-de-jie-gou/129-bian-yi-gou-zao-gong-ju.md)
   * [1.3 程序设计语言的发展历程](13-cheng-xu-she-ji-yu-yan-de-fa-zhan-li-cheng.md)
     * [1.3.1 走向高级程序设计语言](13-cheng-xu-she-ji-yu-yan-de-fa-zhan-li-cheng/131-zou-xiang-gao-ji-cheng-xu-she-ji-yu-yan.md)
+    * 1.3.2 对编译器的影响
 
