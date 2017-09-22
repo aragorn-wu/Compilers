@@ -4,3 +4,7 @@
 
 以冯\*诺依曼计算机体系结构为计算模型的程序设计语言叫做冯\*诺依曼语言。现在很多语言（如c、java）都是冯\*诺依曼语言。
 
+面向对象语言（object-oriented language）指的是支持面向对象编程的语言。
+
+脚本语言（scripting language）是具有高层次运算符的解释型语言，它通常用于把多个计算过程“粘合”在一起。这种计算过程叫脚本。awk、javascript、perl、php、ruby、tcl是常见的脚本语言。
+
