@@ -10,4 +10,5 @@
     * [1.2.4 中间代码生成](12-yi-ge-bian-yi-qi-de-jie-gou/124-zhong-jian-dai-ma-sheng-cheng.md)
     * [1.2.5 代码优化](12-yi-ge-bian-yi-qi-de-jie-gou/125-dai-ma-you-hua.md)
     * [1.2.6 代码生成](12-yi-ge-bian-yi-qi-de-jie-gou/126-dai-ma-sheng-cheng.md)
+    * [1.2.7 符号表管理](12-yi-ge-bian-yi-qi-de-jie-gou/127-fu-hao-biao-guan-li.md)
 
