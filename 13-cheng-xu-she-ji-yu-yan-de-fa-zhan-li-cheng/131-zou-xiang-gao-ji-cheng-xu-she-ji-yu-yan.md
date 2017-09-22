@@ -6,5 +6,5 @@
 
 面向对象语言（object-oriented language）指的是支持面向对象编程的语言。
 
-脚本语言（scripting language）是具有高层次运算符的解释型语言，它通常用于把多个计算过程“粘合”在一起。这种计算过程叫脚本。awk、javascript、perl、php、ruby、tcl是常见的脚本语言。
+脚本语言（scripting language）是具有高层次运算符的解释型语言，它通常用于把多个计算过程“粘合”在一起。这种计算过程叫脚本。awk、javascript、perl、php、ruby、tcl是常见的脚本语言。使用脚本语言编写的程序通常比其他语言（比如c）写的等价程序要短很多。
 
