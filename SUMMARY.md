@@ -18,4 +18,5 @@
     * [1.3.2 对编译器的影响](13-cheng-xu-she-ji-yu-yan-de-fa-zhan-li-cheng/132-dui-bian-yi-qi-de-ying-xiang.md)
   * [1.4 构建一个编译器相关的科学](14-gou-jian-yi-ge-bian-yi-qi-xiang-guan-de-ke-xue.md)
     * 1.4.1 编译器设计和实现中的建模
+    * 1.4.2 代码优化的科学
 
