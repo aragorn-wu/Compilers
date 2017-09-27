@@ -32,4 +32,5 @@
     * 1.6.4 显式访问控制
     * [1.6.5 动态作用域](16-cheng-xu-she-ji-yu-yan-ji-chu/165-dong-tai-zuo-yong-yu.md)
     * [1.6.6 参数传递机制](16-cheng-xu-she-ji-yu-yan-ji-chu/166-can-shu-chuan-di-ji-zhi.md)
+    * [1.6.7 别名](16-cheng-xu-she-ji-yu-yan-ji-chu/167-bie-ming.md)
 
