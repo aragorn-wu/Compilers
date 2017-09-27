@@ -26,4 +26,5 @@
     * [1.5.4 程序翻译](15-bian-yi-ji-zhu-de-ying-yong/154-cheng-xu-fan-yi.md)
     * [1.5.5 软件生产率工具](15-bian-yi-ji-zhu-de-ying-yong/155-ruan-jian-sheng-chan-lv-gong-ju.md)
   * [1.6 程序设计语言基础](16-cheng-xu-she-ji-yu-yan-ji-chu.md)
+    * [1.6.1 静态和动态的区别](16-cheng-xu-she-ji-yu-yan-ji-chu/161-jing-tai-he-dong-tai-de-qu-bie.md)
 
