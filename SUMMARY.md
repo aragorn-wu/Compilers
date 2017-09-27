@@ -36,4 +36,5 @@
 * [第2章 一个简单的语法制导翻译器](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi.md)
   * [2.1 引言](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/21-yin-yan.md)
   * [2.2 语法定义](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi.md)
+    * [2.2.1 文法定义](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/221-wen-fa-ding-yi.md)
 
