@@ -28,4 +28,5 @@
   * [1.6 程序设计语言基础](16-cheng-xu-she-ji-yu-yan-ji-chu.md)
     * [1.6.1 静态和动态的区别](16-cheng-xu-she-ji-yu-yan-ji-chu/161-jing-tai-he-dong-tai-de-qu-bie.md)
     * [1.6.2 环境与状态](16-cheng-xu-she-ji-yu-yan-ji-chu/162-huan-jing-yu-zhuang-tai.md)
+    * [1.6.3 静态作用域和块结构](16-cheng-xu-she-ji-yu-yan-ji-chu/163-jing-tai-zuo-yong-yu-he-kuai-jie-gou.md)
 
