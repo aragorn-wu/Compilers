@@ -25,4 +25,5 @@
     * [1.5.3 新的计算机体系结构设计](15-bian-yi-ji-zhu-de-ying-yong/153-xin-de-ji-suan-ji-ti-xi-jie-gou-she-ji.md)
     * [1.5.4 程序翻译](15-bian-yi-ji-zhu-de-ying-yong/154-cheng-xu-fan-yi.md)
     * [1.5.5 软件生产率工具](15-bian-yi-ji-zhu-de-ying-yong/155-ruan-jian-sheng-chan-lv-gong-ju.md)
+  * [1.6 程序设计语言基础](16-cheng-xu-she-ji-yu-yan-ji-chu.md)
 
