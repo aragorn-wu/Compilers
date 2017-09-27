@@ -19,5 +19,8 @@
   * [1.4 构建一个编译器相关的科学](14-gou-jian-yi-ge-bian-yi-qi-xiang-guan-de-ke-xue.md)
     * 1.4.1 编译器设计和实现中的建模
     * [1.4.2 代码优化的科学](14-gou-jian-yi-ge-bian-yi-qi-xiang-guan-de-ke-xue/142-dai-ma-you-hua-de-ke-xue.md)
-  * 1.5 编译技术的应用
+  * [1.5 编译技术的应用](15-bian-yi-ji-zhu-de-ying-yong.md)
+    * 1.5.1 高级程序设计语言的实现
+    * [1.5.2 针对计算机体系结构的优化](15-bian-yi-ji-zhu-de-ying-yong/152-zhen-dui-ji-suan-ji-ti-xi-jie-gou-de-you-hua.md)
+    * [1.5.3 新的计算机体系结构设计](15-bian-yi-ji-zhu-de-ying-yong/153-xin-de-ji-suan-ji-ti-xi-jie-gou-she-ji.md)
 
