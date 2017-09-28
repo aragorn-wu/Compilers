@@ -42,4 +42,6 @@
     * [2.2.4 二义性](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/224-er-yi-xing.md)
     * [2.2.5 运算符的结合性](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/225-yun-suan-fu-de-jie-he-xing.md)
     * [2.2.6 运算符的优先级](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/226-yun-suan-fu-de-you-xian-ji.md)
+  * [2.3 语法制导翻译](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/23-yu-fa-zhi-dao-fan-yi.md)
+    * [2.3.1 后缀表示](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/23-yu-fa-zhi-dao-fan-yi/231-hou-zhui-biao-shi.md)
 
