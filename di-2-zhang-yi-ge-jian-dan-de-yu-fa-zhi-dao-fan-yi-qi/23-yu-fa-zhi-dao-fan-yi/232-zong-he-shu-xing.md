@@ -1,2 +1,2 @@
-语义制导定义（syntax-directed definition）把每个文法符号和一个属性集合相关联。
+语义制导定义（syntax-directed definition）把每个文法符号和一个属性集合相关联。并且把每个产生式和一组语义规则（semanticrule）相关联，这些规则用于计算与该产生式中符号相关联的属性值。
 
