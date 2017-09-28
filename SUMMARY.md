@@ -41,4 +41,5 @@
     * [2.2.3 语法分析树](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/223-yu-fa-fen-xi-shu.md)
     * [2.2.4 二义性](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/224-er-yi-xing.md)
     * [2.2.5 运算符的结合性](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/225-yun-suan-fu-de-jie-he-xing.md)
+    * [2.2.6 运算符的优先级](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/226-yun-suan-fu-de-you-xian-ji.md)
 
