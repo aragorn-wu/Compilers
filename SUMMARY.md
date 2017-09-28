@@ -37,4 +37,5 @@
   * [2.1 引言](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/21-yin-yan.md)
   * [2.2 语法定义](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi.md)
     * [2.2.1 文法定义](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/221-wen-fa-ding-yi.md)
+    * [2.2.2 推导](di-2-zhang-yi-ge-jian-dan-de-yu-fa-zhi-dao-fan-yi-qi/22-yu-fa-ding-yi/222-tui-dao.md)
 
